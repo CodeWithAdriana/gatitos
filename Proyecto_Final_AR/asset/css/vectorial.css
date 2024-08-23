@@ -1,0 +1,46 @@
+.card-img-top {
+    max-height: 200px;
+    object-fit: contain;
+}
+
+
+.card-body {
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 15px;
+}
+
+
+.card-body .btn {
+    margin-top: 10px;
+    background-color: #6c757d;
+    border: none;
+    color: white;
+}
+
+.card-body .btn:hover {
+    background-color: #5a6268;
+}
+
+
+h2 {
+    color: #343a40;
+}
+
+p {
+    font-size: 0.9em;
+    color: #495057;
+}
+
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.85em;
+    color: #f8f9fa;
+}
